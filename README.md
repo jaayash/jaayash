@@ -39,7 +39,7 @@
 
 ### 📌 Featured Projects
 
-<!-- Replace these with your actual repos — pin your best 2-3 -->
+
 
 <p align="left">
   <a href="https://github.com/jaayash?tab=repositories">
@@ -47,7 +47,4 @@
   </a>
 </p>
 
-> 💡 Tip: Use GitHub's "pin repositories" feature on your profile, then swap `your-repo-name` above for the actual repo name to auto-generate a nice project card.
-
----
 
